@@ -24,5 +24,10 @@ namespace Calculator4
             double c = a + b;
             textBox3.Text = c.ToString();
         }
+
+        private void btTru_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
